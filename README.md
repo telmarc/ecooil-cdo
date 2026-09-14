@@ -1,32 +1,40 @@
-# EcoOil CDO Sales Website Concept
+# EcoOil CDO Single Station Sales Website Concept
 
-A responsive sales-focused concept website for EcoOil stations in Cagayan de Oro.
+A responsive concept website for one independently operated EcoOil station in Cagayan de Oro.
+
+## Confirmed station information used in this revision
+
+- GPS: 8.476577, 124.661086
+- Mini tank truck available for qualifying fuel delivery
+- Bulk orders and purchase orders accepted
+- Convenience store
+- Selected hard liquor may be available to customers of legal drinking age
+- Cash, GCash, Visa and Mastercard accepted
 
 ## Commercial goals
 
-- Increase repeat fuel purchases through EcoOil CDO Rewards
-- Acquire fleet and corporate fuel-account leads
-- Help motorists find the JR Borja, Lumbia and Bugo stations
-- Present approved promotions and collect consent-based customer inquiries
+- Bring more motorists to the exact station location
+- Convert bulk-order and delivery enquiries
+- Promote purchase-order capability to local organizations
+- Increase convenience-store visits
+- Prepare a station-level customer rewards pilot
 
-## Included in the prototype
+## Prototype features
 
-- Mobile-first homepage
-- Rewards journey and interactive points calculator
-- Promotional campaign concepts
-- CDO station finder with Google Maps searches
-- Fleet-account sales section and consultation form
-- Customer registration demonstration
-- Responsive navigation and subtle scroll animation
-- Accessibility and reduced-motion support
+- Exact Google Maps directions and embedded map
+- One-station messaging throughout
+- Fuel delivery and bulk-order landing content
+- Purchase-order and payment-method information
+- Convenience-store and responsible alcohol messaging
+- Bulk and delivery enquiry demonstration
+- Proposed rewards program
+- Responsive navigation, accessibility and reduced-motion support
 - GitHub Pages deployment workflow
 
 ## Important
 
-This is a concept for presentation. Station details, reward mechanics, prices, contacts, promotional permits, privacy documentation and use of EcoOil brand assets must be approved before production launch. Forms are demonstrations and do not transmit or store personal information.
+This is a concept for presentation. Final station name, address, hours, contact details, delivery coverage, minimum order, product availability, rewards, prices, promotions, regulatory requirements and use of EcoOil brand assets require owner approval before production launch. Forms do not yet transmit or store information. Stock photographs are illustrative and do not depict the actual station.
 
 ## Preview
-
-After GitHub Pages is enabled with **GitHub Actions** as the source, the workflow deploys the site at:
 
 https://telmarc.github.io/ecooil-cdo/
